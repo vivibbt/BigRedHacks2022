@@ -1,5 +1,5 @@
 import pygame
-from game import *
+from main import *
 import level
 import player
 import sprites

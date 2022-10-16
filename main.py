@@ -3,7 +3,7 @@ from sys import exit
 from level import *
 import player
 from settings import *
-from npc import *
+from fishgame import *
 import random
 
 

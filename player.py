@@ -4,7 +4,7 @@ from timer import *
 from settings import *
 from overlay import *
 from level import *
-from npc import *
+from fishgame import *
 import time
 from sprites import * 
 

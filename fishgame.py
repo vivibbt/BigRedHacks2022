@@ -5,7 +5,7 @@ from overlay import *
 import sprites
 import level
 import random
-from game import *
+from main import *
 import sys
 
 class Fishgame:
