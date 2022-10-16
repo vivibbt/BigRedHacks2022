@@ -1,6 +1,6 @@
 # BigRedHacks2022 # Environmental Sustainability 
 Gabe Goes Green 
-(run game.py)
+`run game.py`
 
 
 By:
