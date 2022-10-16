@@ -1,8 +1,8 @@
 # BigRedHacks2022 # Environmental Sustainability 
 Gabe Goes Green 
 
-install pygame and
-`run main.py`
+Install pygame and
+`run main.py` to play!
 
 
 By:
